@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Achieve::VERSION
   spec.authors       = ["Ariejan de Vroom"]
   spec.email         = ["ariejan@ariejan.net"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Achieve your daily goals with achieve}
+  spec.summary       = %q{Achieve your daily goals with achieve}
   spec.homepage      = ""
   spec.license       = "MIT"
 
